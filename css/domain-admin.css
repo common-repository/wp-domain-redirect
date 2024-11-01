@@ -1,0 +1,29 @@
+.wp-domain-left{
+  float:left;
+  width:70%;
+  margin-right:2%;
+  font-family:"Trebuchet MS", Arial, verdana, sans-serif;
+}
+.wp-domain-right{
+  float:left;
+  width:28%;
+}
+.wp-domain-comment{
+	float:left;
+	width:70%;
+	hight:auto;
+	text-align:justify;
+	color: #339900;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 16px;	
+}
+
+.wp-domain-redirect-icon {
+	float: left;
+	height: 34px;
+	margin: 7px 8px 0 0;
+	width: 36px;
+	background-image: url("../images/icons.png");
+	background-color: transparent;
+	background-repeat: no-repeat;
+}
